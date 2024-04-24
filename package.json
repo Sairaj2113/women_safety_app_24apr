@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "play-sound": "^1.1.6",
+    "twilio": "^5.0.1"
+  }
+}
